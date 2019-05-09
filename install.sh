@@ -850,7 +850,6 @@ gsettings set org.virt-manager.virt-manager system-tray true
 # Night light
 gsettings set org.gnome.settings-daemon.plugins.color night-light-temperature 4900
 gsettings set org.gnome.settings-daemon.plugins.color night-light-enabled true
-gsettings set org.gnome.settings-daemon.plugins.color night-light-last-coordinates "(17.378399999999999, 78.471199999999996)"
 
 # Power settings
 gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout 1800 # suspend after 30mins on battery power
